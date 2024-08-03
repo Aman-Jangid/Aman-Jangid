@@ -1,7 +1,7 @@
 Hello, I'm Aman! 👋
 
 🚀 About Me
-I'm a passionate Computer Science student currently in my second year of BTech at a tier 3 university in India. With 1.5 years of programming experience, I've honed my skills in various technologies and developed a keen interest in building scalable web and mobile applications.
+I'm a passionate Computer Science student currently in my second year of BTech. With 1.5 years of programming experience, I've honed my skills in various technologies and developed a keen interest in building scalable web and mobile applications.
 
 💻 Tech Stack
 Languages: JavaScript, TypeScript, Python, C++, C
