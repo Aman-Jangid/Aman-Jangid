@@ -12,10 +12,10 @@ Others: Linux, Git, Figma <br>
 #### Open Source Contributions
 I am enthusiastic about contributing to the open source community. Here are some events and programs I'm interested in:
 <br>
-GSOC
-MLH Fellowship
-LFX Mentorship
-FOSSASIA
+GSOC,
+MLH Fellowship,
+LFX Mentorship,
+FOSSASIA,
 Octernships
 
 #### How to reach me
