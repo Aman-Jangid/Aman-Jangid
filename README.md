@@ -22,6 +22,6 @@ Octernships
 Email: aman2003jangid@gmail.com
 
 #### Currently Learning
-Go
-Kotlin for Android Development
+Go,
+Kotlin for Android Development,
 Advanced concepts in TypeScript & Next.js
