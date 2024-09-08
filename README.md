@@ -4,7 +4,7 @@
 I'm a passionate Computer Science student currently in my second year of BTech. With 1.5 years of programming experience, I've honed my skills in various technologies and developed a keen interest in building scalable web and mobile applications.
 
 #### Tech Stack
-Languages: JavaScript, TypeScript, Python, C++, C <br>
+Languages: JavaScript, TypeScript, Python, Kotlin, C <br>
 Web: React, Next.js, HTML, CSS <br>
 Mobile: React Native, Kotlin <br>
 Others: Linux, Git, Figma <br>
